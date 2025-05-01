@@ -1,4 +1,4 @@
-package pertemuan8;
+package pertemuan8.Tugas;
 
 
 public class StrukturListTest {

@@ -1,4 +1,4 @@
-package pertemuan8;
+package pertemuan8.Latihan;
 
 public class Node {
     private int data;
